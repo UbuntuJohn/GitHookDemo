@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'reckoner';
+	src: url('../fonts/reckoner.ttf') format('truetype'),
+	url('...fonts/reckoner.woff') format('woff');
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: reckoner, tahoma, sans-serif;
+}
