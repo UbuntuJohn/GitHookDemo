@@ -8,5 +8,5 @@ This is a list of previous projects that I have done in the past or current.
 
 ##Updating branch
 
-1.nano readme.md
-2.git push github master
+1. nano readme.md
+2. git push github master
